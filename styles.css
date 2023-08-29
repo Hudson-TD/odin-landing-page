@@ -23,3 +23,10 @@ ul {
     gap: 20px;
     align-items: center;
 }
+
+/* Hero container formatting below */
+
+.hero-container {
+    background-color: #1F2937;
+    color: white;
+}
